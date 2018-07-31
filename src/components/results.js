@@ -1,4 +1,3 @@
-
 import React from "react";
 import ResultsListItem from "./results_list_item";
 
