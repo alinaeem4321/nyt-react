@@ -1,0 +1,43 @@
+
+body {
+	background-color: rgb(241, 241, 234);
+	background-image: url("../images/NYT_espresso.jpg");
+	background-position: center center;
+	background-size: cover;
+	background-attachment:fixed;
+	opacity: .95;
+
+}
+
+.jumbotron {
+	background: #D32F2F;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #D32F2F, #D32F2F);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #D32F2F, #D32F2F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	height: 15rem;
+	width: 100%;
+	color: #F9FBE7;
+	background-position: center center;
+	background-size: cover;
+}
+
+.form-text-color {
+	color: #212121;
+	font-weight: bolder;
+	font-size: 125%;
+}
+
+#empty-db-alert {
+	display: none
+}
+
+.card {
+	margin: 1rem;
+	padding: 1rem;
+	background-color: #EF9A9A;
+}
+
+.btn {
+	margin: 1rem;
+	color:white;
+}
